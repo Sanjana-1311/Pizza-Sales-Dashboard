@@ -86,7 +86,7 @@ Overall, the dashboard enables:
 ### 🏠 Home Dashboard
 Provides an overview of KPIs and sales trends.
 
-![Alt text]() 
+![Alt text](https://github.com/Sanjana-1311/Pizza-Sales-Dashboard/blob/main/Home.png) 
 
 ###📊 Best & Worst Case Analysis  
 Shows Top 5 best sellers and Bottom 5 worst sellers 
