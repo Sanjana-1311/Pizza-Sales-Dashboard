@@ -58,26 +58,20 @@ Overall, the dashboard enables:
 - **Average Order Value**
 - **Average Pizzas per Order**
 
----
-
 ### 📈 Sales Analysis
 - **Daily Order Trends** – Identify busiest days  
 - **Monthly Trends** – Discover seasonal patterns  
-
----
 
 ### 🍕 Product Insights
 - **Sales by Category** (Classic, Supreme, Chicken, Veggie)  
 - **Sales by Size** (Small, Medium, Large, XL)  
 - **Total Sales by Category**  
 
----
 
 ### 🏆 Performance Analysis
 - **Top 5 Best Sellers** (Revenue, Quantity, Orders)  
 - **Bottom 5 Worst Sellers**  
 
----
 
 ### 📌 Business Insights
 -  Peak days: **Fridays & Saturdays**
@@ -92,9 +86,9 @@ Overall, the dashboard enables:
 ### 🏠 Home Dashboard
 Provides an overview of KPIs and sales trends.
 
-![Alt text](https://github.com/Sanjana-1311/Pizza-Sales-Dashboard/blob/main/Home.png) 
+![Alt text]() 
 
 ###📊 Best & Worst Case Analysis  
 Shows Top 5 best sellers and Bottom 5 worst sellers 
 
-![Alt text]
+![Alt text](https://github.com/Sanjana-1311/Pizza-Sales-Dashboard/blob/main/Best%20Case%20%26%20Worst%20Case.png)
